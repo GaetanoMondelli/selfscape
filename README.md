@@ -7,6 +7,8 @@ As part of the presentation '#10YEARdataCHALLENGE' on how to manage and get insi
 
 In a previous talk I showed how I used [Splunk](https://www.splunk.com/) for creating a local index of  ~2.5 TB made by data I collected since 1998. Splunk comes with a query langauage, SPL (Splunk Search Processing Language) that allows to get refined results quickly. In the same talk I also showed how I built indexes for data that usually sits in the cloud and how I analysed them though fancy diagrams and realtime dashboards. 
 
+![](https://raw.githubusercontent.com/GaetanoMondelli/selfscape/master/public/dashboard.png)
+
 Splunk offers an intuitive web app to navigate and query data but accessing several thousands of events from scattered sources required an easy and usable interface like browsers do for the Internet.
 The PoC for the presentation is named Selfscape after Andeersen and Horowitz's Netscape browser. 
 The search bar converts user inputs in a Splunk Queries and posts them to a Splunk instance though the API. 
