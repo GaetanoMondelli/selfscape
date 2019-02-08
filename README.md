@@ -17,7 +17,7 @@ Finally the results are filtered and presented trying the best to enphasise mean
 ![Selfscape_architecture](https://raw.githubusercontent.com/GaetanoMondelli/selfscape/master/public/selfscape.png)
 
 Indeed, one of the (yet unsolved) challenge is facing such a system is prioritsing results. 
-Keeping the analogy with the Internet, web-page prioritisation was handled by Larry Pag and Sergey Brinn's Page Rank. 
+Keeping the analogy with the Internet, web-page prioritisation was handled by Larry Page and Sergey Brinn's Page Rank. 
 Last part of the presentation shows an adaptation for an **event page rank** that can be applied to the **'Internet of Self'** scenario. Page Rank builds the result set by scoring candidate web pages wrt the number of references in other pages. 
 
 ![](https://raw.githubusercontent.com/GaetanoMondelli/selfscape/master/public/pagerank1.png)
@@ -42,7 +42,7 @@ The markers in the pictures represent two events (e.g. two picture) that are in 
 
 
 ### Demo
-The demo (GIF) shows how contents are priortised for the keyword Cristmas and December 2019. 
+The demo (GIF) shows how contents are priortised for the keyword Christmas and December 2018. 
 __NOTE: This is an extremely happy case, built ad hoc to show what was the aim of this presentation._
 Almost all of the time the result set is still not what we would like to present.
 ![](https://raw.githubusercontent.com/GaetanoMondelli/selfscape/master/public/screencast.gif)
